@@ -9,6 +9,7 @@
 #include "./examples/array.cpp"
 
 int main() {
+    
     _operator();
     datatype();
     macro();
