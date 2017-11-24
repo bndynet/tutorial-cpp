@@ -7,16 +7,19 @@
 #include "./examples/multiplicationtable.cpp"
 #include "./examples/leapyear.cpp"
 #include "./examples/array.cpp"
+#include "./examples/file.cpp"
 
 int main() {
     
-    _operator();
-    datatype();
-    macro();
-    pointer();
-    multiplicationtable();
-    leapyear();
-    array();
+    // _operator();
+    // datatype();
+    // macro();
+    // pointer();
+    // multiplicationtable();
+    // leapyear();
+    // array();
+    //write2File();
+    copyFile();
 
     return 0;
 }
